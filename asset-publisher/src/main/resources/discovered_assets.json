@@ -1,0 +1,302 @@
+[
+  {
+    "ip": "10.0.0.0",
+    "port": 23,
+    "service": "telnet",
+    "version": "2.0"
+  },
+  {
+    "ip": "10.0.0.1",
+    "port": 5432,
+    "service": "postgres",
+    "version": "14.0"
+  },
+  {
+    "ip": "10.0.0.2",
+    "port": 5432,
+    "service": "postgres",
+    "version": "13.0"
+  },
+  {
+    "ip": "10.0.0.3",
+    "port": 3306,
+    "service": "mysql",
+    "version": "5.7"
+  },
+  {
+    "ip": "10.0.0.4",
+    "port": 5432,
+    "service": "postgres",
+    "version": "13.0"
+  },
+  {
+    "ip": "10.0.0.5",
+    "port": 443,
+    "service": "apache",
+    "version": "2.4"
+  },
+  {
+    "ip": "10.0.0.6",
+    "port": 5432,
+    "service": "postgres",
+    "version": "13.0"
+  },
+  {
+    "ip": "10.0.0.7",
+    "port": 6379,
+    "service": "redis",
+    "version": "5.0"
+  },
+  {
+    "ip": "10.0.0.8",
+    "port": 80,
+    "service": "nginx",
+    "version": "1.14"
+  },
+  {
+    "ip": "10.0.0.9",
+    "port": 6379,
+    "service": "redis",
+    "version": "5.0"
+  },
+  {
+    "ip": "10.0.1.0",
+    "port": 80,
+    "service": "nginx",
+    "version": "1.12"
+  },
+  {
+    "ip": "10.0.1.1",
+    "port": 6379,
+    "service": "redis",
+    "version": "6.0"
+  },
+  {
+    "ip": "10.0.1.2",
+    "port": 3306,
+    "service": "mysql",
+    "version": "5.7"
+  },
+  {
+    "ip": "10.0.1.3",
+    "port": 22,
+    "service": "ssh",
+    "version": "9.0"
+  },
+  {
+    "ip": "10.0.1.4",
+    "port": 3389,
+    "service": "rdp",
+    "version": "11.0"
+  },
+  {
+    "ip": "10.0.1.5",
+    "port": 5432,
+    "service": "postgres",
+    "version": "13.0"
+  },
+  {
+    "ip": "10.0.1.6",
+    "port": 5432,
+    "service": "postgres",
+    "version": "14.0"
+  },
+  {
+    "ip": "10.0.1.7",
+    "port": 3306,
+    "service": "mysql",
+    "version": "5.7"
+  },
+  {
+    "ip": "10.0.1.8",
+    "port": 22,
+    "service": "ssh",
+    "version": "7.2"
+  },
+  {
+    "ip": "10.0.1.9",
+    "port": 80,
+    "service": "nginx",
+    "version": "1.12"
+  },
+  {
+    "ip": "10.0.2.0",
+    "port": 8080,
+    "service": "httpd",
+    "version": "2.4"
+  },
+  {
+    "ip": "10.0.2.1",
+    "port": 80,
+    "service": "nginx",
+    "version": "1.14"
+  },
+  {
+    "ip": "10.0.2.2",
+    "port": 23,
+    "service": "telnet",
+    "version": "2.0"
+  },
+  {
+    "ip": "10.0.2.3",
+    "port": 3306,
+    "service": "mysql",
+    "version": "8.0"
+  },
+  {
+    "ip": "10.0.2.4",
+    "port": 3389,
+    "service": "rdp",
+    "version": "10.0"
+  },
+  {
+    "ip": "10.0.2.5",
+    "port": 6379,
+    "service": "redis",
+    "version": "4.0"
+  },
+  {
+    "ip": "10.0.2.6",
+    "port": 23,
+    "service": "telnet",
+    "version": "2.0"
+  },
+  {
+    "ip": "10.0.2.7",
+    "port": 80,
+    "service": "nginx",
+    "version": "1.18"
+  },
+  {
+    "ip": "10.0.2.8",
+    "port": 3306,
+    "service": "mysql",
+    "version": "8.0"
+  },
+  {
+    "ip": "10.0.2.9",
+    "port": 80,
+    "service": "nginx",
+    "version": "1.12"
+  },
+  {
+    "ip": "10.0.3.0",
+    "port": 443,
+    "service": "apache",
+    "version": "2.4"
+  },
+  {
+    "ip": "10.0.3.1",
+    "port": 443,
+    "service": "apache",
+    "version": "2.4"
+  },
+  {
+    "ip": "10.0.3.2",
+    "port": 6379,
+    "service": "redis",
+    "version": "5.0"
+  },
+  {
+    "ip": "10.0.3.3",
+    "port": 5432,
+    "service": "postgres",
+    "version": "12.0"
+  },
+  {
+    "ip": "10.0.3.4",
+    "port": 23,
+    "service": "telnet",
+    "version": "1.0"
+  },
+  {
+    "ip": "10.0.3.5",
+    "port": 443,
+    "service": "apache",
+    "version": "2.2"
+  },
+  {
+    "ip": "10.0.3.6",
+    "port": 8080,
+    "service": "httpd",
+    "version": "2.2"
+  },
+  {
+    "ip": "10.0.3.7",
+    "port": 3389,
+    "service": "rdp",
+    "version": "11.0"
+  },
+  {
+    "ip": "10.0.3.8",
+    "port": 5432,
+    "service": "postgres",
+    "version": "14.0"
+  },
+  {
+    "ip": "10.0.3.9",
+    "port": 80,
+    "service": "nginx",
+    "version": "1.24"
+  },
+  {
+    "ip": "10.0.4.0",
+    "port": 80,
+    "service": "nginx",
+    "version": "1.18"
+  },
+  {
+    "ip": "10.0.4.1",
+    "port": 22,
+    "service": "ssh",
+    "version": "9.0"
+  },
+  {
+    "ip": "10.0.4.2",
+    "port": 6379,
+    "service": "redis",
+    "version": "6.0"
+  },
+  {
+    "ip": "10.0.4.3",
+    "port": 6379,
+    "service": "redis",
+    "version": "6.0"
+  },
+  {
+    "ip": "10.0.4.4",
+    "port": 80,
+    "service": "nginx",
+    "version": "1.14"
+  },
+  {
+    "ip": "10.0.4.5",
+    "port": 8080,
+    "service": "httpd",
+    "version": "2.2"
+  },
+  {
+    "ip": "10.0.4.6",
+    "port": 443,
+    "service": "apache",
+    "version": "2.2"
+  },
+  {
+    "ip": "10.0.4.7",
+    "port": 8080,
+    "service": "httpd",
+    "version": "2.2"
+  },
+  {
+    "ip": "10.0.4.8",
+    "port": 8080,
+    "service": "httpd",
+    "version": "2.2"
+  },
+  {
+    "ip": "10.0.4.9",
+    "port": 80,
+    "service": "nginx",
+    "version": "1.14"
+  }
+]

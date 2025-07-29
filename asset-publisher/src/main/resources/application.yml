@@ -1,0 +1,19 @@
+spring:
+  kafka:
+    bootstrap-servers: kafka:9092
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+  devtools:
+    restart:
+      enabled: false
+
+app:
+  kafka:
+    topic-name: asset_raw_data
+    file-path: classpath:discovered_assets.json
+
+server:
+  port: 25732
+
+

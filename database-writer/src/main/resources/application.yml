@@ -1,0 +1,13 @@
+spring:
+  kafka:
+    bootstrap-servers: kafka:9092
+  data:
+    mongodb:
+      uri: mongodb://mongodb:27017/asm_db
+
+app:
+  kafka:
+    input-topic: risk_score_alerts
+
+server:
+  port: 25734

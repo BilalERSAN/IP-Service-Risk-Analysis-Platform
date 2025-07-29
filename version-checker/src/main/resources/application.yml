@@ -1,0 +1,17 @@
+spring:
+  kafka:
+    bootstrap-servers: kafka:9092
+    consumer:
+      auto-offset-reset: earliest
+  application:
+    name: version-checker-service
+
+app:
+  kafka:
+    input-topic: asset_raw_data
+    output-topic: version_check_result
+  latest-versions-path: latest_versions.json
+
+server:
+  port: 25732
+

@@ -1,0 +1,15 @@
+spring:
+  kafka:
+    bootstrap-servers: kafka:9092
+  application:
+    name: risk-reporter-service
+
+app:
+  kafka:
+    input-topic: version_check_result
+    output-topic: risk_score_alerts
+    consumer:
+      auto-offset-reset: earliest
+      
+server:
+  port: 25733
